@@ -29,3 +29,8 @@ This Python script implements a Linear Regression model to predict salaries base
 1. **Download the `salaries.csv` dataset:** Ensure it's in the same directory as this code.
 2. **Run the script:** Execute the Python script `salary.pynb`
 
+
+
+
+
+

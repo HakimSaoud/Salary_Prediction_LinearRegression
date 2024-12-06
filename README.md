@@ -4,7 +4,7 @@
 
 This Python script implements a Linear Regression model to predict salaries based on features in the `salaries.csv` dataset. It demonstrates key steps in data analysis and machine learning:
 
-[](Capture.PNG)
+[cap](Capture.PNG)
 
 * Data loading and exploration
 * Feature selection and extraction

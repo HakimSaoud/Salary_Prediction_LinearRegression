@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-
 st.title("Salary Prediction App")
 st.write("Predict salaries based on input values using a preloaded dataset.")
 

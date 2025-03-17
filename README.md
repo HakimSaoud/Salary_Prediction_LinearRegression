@@ -6,6 +6,8 @@ This Python script implements a Linear Regression model to predict salaries base
 
 ![](Capture.PNG)
 
+
+
 * Data loading and exploration
 * Feature selection and extraction
 * Train-test split for model validation
